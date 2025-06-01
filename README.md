@@ -15,6 +15,9 @@ To demonstrate version control best practices using Git and GitHub, including br
 - `dev` – Development integration
 - `feature/setup` – Initial setup and base files
 
+## ✏️ Update
+This line was added from the `feature/docs-update` branch.
+
 ## 📄 Documentation
 Detailed task logs are available in [`docs/tasks.md`](docs/tasks.md)
 
