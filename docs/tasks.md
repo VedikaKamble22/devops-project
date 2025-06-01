@@ -13,7 +13,9 @@
 - **Created a Pull Request** from `feature/setup` → `dev`
 - **Merged the PR** after reviewing changes
 - **Added a Git tag** `v1.0` to mark the first version
-- **Documented** everything using markdown and screenshots
+- **Documented** everything using markdown
+- **Update** This line was added from the `feature/docs-update` branch.
+
 
 ## 🔖 Git Tag Used
 - `v1.0`: Initial version after setup
